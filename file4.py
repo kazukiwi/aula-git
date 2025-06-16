@@ -1,0 +1,1 @@
+print("EU TE AMO "*500)
